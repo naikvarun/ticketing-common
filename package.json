@@ -1,0 +1,7 @@
+{
+  "name": "@nkvrntickets/ticketing-common",
+  "description": "Common libraries for ticketing",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT"
+}
